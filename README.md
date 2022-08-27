@@ -21,8 +21,3 @@ Script relacionado a Ramos UC el cual crea grupos de WhatsApp para ramos automá
 
 ### Programming
 - Existen muchos ramos fantasmas, seminarios listados como ramos, etc... Esto se debe filtrar
-
-----------------------------------------------------------------------------------------------
-
-## 🔵 Possible Features
-- Telegram para ramos del DCC
