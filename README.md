@@ -24,5 +24,5 @@ Script relacionado a Ramos UC el cual crea grupos de WhatsApp para ramos automá
 
 ----------------------------------------------------------------------------------------------
 
-## 💽 Possible Features
+## 🔵 Possible Features
 - Telegram para ramos del DCC
