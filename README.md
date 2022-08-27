@@ -3,10 +3,10 @@ Script relacionado a Ramos UC el cual crea grupos de WhatsApp para ramos automá
 
 ----------------------------------------------------------------------------------------------
 
-## 💻✅ Program Pros
+## 💻👍 Program Pros
 - La base de datos ha utilizar se podría relacionar con la de Ramos_UC
 
-## ✅General Pros
+## 👍General Pros
 - La vida útil de la aplicación sería casi permanente!
 - El público es definido
 - Fácilmente expandible a otras comunidades universitarias
